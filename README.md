@@ -5,20 +5,17 @@ Click anywhere on the screen to advance from the initial logo splashcreen.
 
 
 1. My game has the following three scenes:
-
 -intro
 -menu scene
 -game scene
 
 
 2. There are two audio assets:
-
 -background music that begins at the menu screen
 -pillow fluff sound effect that plays when the pillow is clicked
 
 
 3. There are multiple .png image assets. Some include:
-
 -the pillow
 -the start button
 -the Pillow Clicker logo
@@ -26,7 +23,6 @@ Click anywhere on the screen to advance from the initial logo splashcreen.
 
 
 4. I did most of my shape design in adobe illustrator, but used geometric shapes a bit:
-
 -lines for the menu bar in Scence C
 -lines arund logo + start button
 
@@ -41,7 +37,6 @@ Click anywhere on the screen to advance from the initial logo splashcreen.
 
 
 8. There are a few animated objects in the game:
-
 -the pillow (when clicked)
 -the menu (when triggered)
 
